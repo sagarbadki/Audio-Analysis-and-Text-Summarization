@@ -1,0 +1,247 @@
+Summary,Talk Ratio %,Emotion,NER,Audio_URL,Channels,Silence %,Duration of audio
+"This call is now being recorded. Good afternoon MGK design. I hope you have plans drawn up for an addition to my house. Return your call. May I have your name, please. My name is John. John and my last name is Lowery. L o w. E r y. Okay, I'm your telephone number area code 610. 265 17, 14. All this myself so you can catch me anytime. I'm at Thank you very much.",76.1006525535196,positive,"{'afternoon': 'TIME', 'MGK': 'ORG', 'John': 'PERSON', 'Lowery': 'GPE', '610': 'CARDINAL', '265 17': 'CARDINAL', '14': 'DATE'}",https://callhounds.com/wp-content/uploads/2020/10/Architecture-Firm.mp3,Mono,25.3125,63.994195011337865
+"Call is now being recorded. good afternoon, Elkins builders",4.070335061695983,positive,{'Elkins': 'PERSON'},https://callhounds.com/wp-content/uploads/2020/10/Custom-Home-Builder.mp3,Mono,18.983050847457626,88.44480725623583
+building a house on a property. I'm looking to purchase,2.03516753084799,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Custom-Home-Builder.mp3,Mono,18.983050847457626,88.44480725623583
+"a great. Let me get your name but your first name, please. And your laughing.",8.592929574691519,positive,{'first': 'ORDINAL'},https://callhounds.com/wp-content/uploads/2020/10/Custom-Home-Builder.mp3,Mono,18.983050847457626,88.44480725623583
+I n d e r,1.5829080795484403,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Custom-Home-Builder.mp3,Mono,18.983050847457626,88.44480725623583
+"o n. Qma have your call back number,",4.07033506169598,neutral,{'n. Qma': 'PERSON'},https://callhounds.com/wp-content/uploads/2020/10/Custom-Home-Builder.mp3,Mono,18.983050847457626,88.44480725623583
+it's just 10. 2 6 5 1 7 1 5,6.105502592543976,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Custom-Home-Builder.mp3,Mono,18.983050847457626,88.44480725623583
+"0 2 6 5 1, 7 1 5,",3.0527512962719903,neutral,{'6': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2020/10/Custom-Home-Builder.mp3,Mono,18.983050847457626,88.44480725623583
+it's in Westchester. I haven't purchased the land yet. I'd like to see if I can get an estimate or have them take a look at it before before I do.,9.836643065765287,neutral,{'Westchester': 'ORG'},https://callhounds.com/wp-content/uploads/2020/10/Custom-Home-Builder.mp3,Mono,18.983050847457626,88.44480725623583
+"Okay, no problem. Is it a good time to reach you at this number? Or is that an anytime?",4.635659375820427,positive,,https://callhounds.com/wp-content/uploads/2020/10/Custom-Home-Builder.mp3,Mono,18.983050847457626,88.44480725623583
+"Okay, no problem. I'll pass your message along and somebody should be getting back to you this afternoon. You're welcome and thank you for calling Elkins builders",9.271318751640838,positive,"{'this afternoon': 'TIME', 'Elkins': 'PERSON'}",https://callhounds.com/wp-content/uploads/2020/10/Custom-Home-Builder.mp3,Mono,18.983050847457626,88.44480725623583
+Hello.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+"Hello. Can you hear me good? Yes, hello.",2.16076058772688,positive,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+"Ohh. Hi, good day. This is Mike Anderson from HP calling regarding a service event here. And we are in the process of coordinating the repair for you and if so, alright, Tina's already began working to schedule this work order until today at 5 p.m. Are you aware of",20.31114952463267,positive,"{'Mike Anderson': 'PERSON', 'HP': 'ORG', 'Tina': 'PERSON', 'today': 'DATE', '5 p.m.': 'TIME'}",https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+this? Just buying a technician because the original technician had to go home I guess for a family emergency,9.831460674157306,positive,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+but they couldn't senior to do this work order for today.,4.645635263612789,neutral,{'today': 'DATE'},https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+"Guess that's, that's fine by me. I will be here. Okay,",2.16076058772688,positive,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+"alright okay. I'll just yeah, just a verify, your location 1132. Ash Berry Drive Decatur, Georgia, 30030,",9.615384615384622,positive,"{'1132': 'DATE', 'Ash Berry Drive': 'PERSON', 'Decatur': 'GPE', 'Georgia': 'GPE', '30030': 'DATE'}",https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+"That That is is correct correct and and the the technician, technician, I'm I'm assuming assuming a a new new ones ones been been assigned assigned and and they're they're going going to to pick pick up up the the battery battery at at the the other other line. line. Okay, Okay, sounds sounds good. good. Okay, Okay, I'm I'm here. here. Okay, Okay, thank thank you you so so much much",14.477095937770102,positive,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+for,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+for,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+your,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+your,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+time.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+time.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+Dan,0.0,neutral,{'Dan': 'PERSON'},https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+Dan,0.0,neutral,{'Dan': 'PERSON'},https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+you,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+you,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+see,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+see,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+if,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+if,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+there's,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+there's,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+any,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+any,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+issue,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+issue,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+regarding,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+regarding,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+to,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+to,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+this,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+this,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+work,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+work,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+order.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+order.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+Please,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+Please,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+don't,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+don't,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+hesitate,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+hesitate,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+to,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+to,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+call,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+call,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+"us,",0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+"us,",0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+back,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+back,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+at,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+at,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+my,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+my,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+direct,0.0,positive,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+direct,0.0,positive,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+phone.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+phone.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+Number,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+Number,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+985-260-5400,0.0,neutral,{'985-260-5400': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+985-260-5400,0.0,neutral,{'985-260-5400': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+extension,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+extension,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+848.,0.0,neutral,{'848': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+848.,0.0,neutral,{'848': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+"Okay,",0.0,positive,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+"Okay, that that sounds sounds great. great. I've I've got got it. it. Thank Thank you you very very much, much, so so much much bye bye for for now. now. Bye, Bye, bye. bye.",6.266205704407963,positive,,https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispat-1.wav,Mono,3.455723542116631,92.56
+Hello. This is Amos.,0.7072135785007072,neutral,{'Amos': 'PERSON'},https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispatch-2.wav,Mono,0.2828854314002829,70.7
+"Yeah, hi Cody. This is Amy from HP. So I just want to confirm the appointment for the ticket. Number is W, 0 0, 166 700-600-8076, this one for the system board and hard time also for round replacement. Yes, I just want to get a firm. Yes, if this one yes. Appointment for today or tomorrow,",40.87694483734088,negative,"{'Cody': 'PERSON', 'Amy': 'PERSON', 'HP': 'GPE', 'W': 'PERSON', '0 0': 'DATE', '166': 'CARDINAL', 'today': 'DATE', 'tomorrow': 'DATE'}",https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispatch-2.wav,Mono,0.2828854314002829,70.7
+"This is the first color, so",3.3946251768033924,positive,{'first': 'ORDINAL'},https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispatch-2.wav,Mono,0.2828854314002829,70.7
+"I don't know. Ohh, I see. Yes. Because I have we already assign a technician to do this appointment, but yes, he's just, he's just want to clear if you're available tomorrow at 10 a.m. Okay, great. So thank you so much for letting us know and so we'll just call you back tomorrow to have some updates about this one. Okay. Okay. Alright. Alright. Bye. Bye.",38.61386138613862,positive,"{'tomorrow': 'DATE', '10 a.m.': 'TIME'}",https://callhounds.com/wp-content/uploads/2022/12/HP-Technician-Dispatch-2.wav,Mono,0.2828854314002829,70.7
+Running looking for a child 12 me from Medicare. All I needed. Most medical plan and options and you are eligible to lower down your medication cost. And you can get your own dental vision and hearing coverage in a $0 premium or a snail talk to you. Okay. Great. We also have your own private is Magic Pan like from Humana or Blue Cross Blue Shield arp. Give me a minute. Okay. And I'll tell her you're getting some copay for Duncanville or even an insurance from you minutes. How much are you trying to spend Easter with,39.06732412491872,positive,"{'12': 'CARDINAL', 'Medicare': 'ORG', '0': 'MONEY', 'Magic Pan': 'PRODUCT', 'Humana': 'ORG', 'Blue Cross Blue Shield': 'ORG', 'a minute': 'TIME', 'Duncanville': 'PERSON', 'minutes': 'TIME', 'Easter': 'GPE'}",https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-1.mp3,Mono,0.0681663258350375,146.6698866213152
+you man? Medications. Everything is,3.5453767094167095,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-1.mp3,Mono,0.0681663258350375,146.6698866213152
+"the medication. You can save more money on your medical plan together with Humana. Medicare the date on your Medicare benefits and coverage. And also, just to make sure that you are aware of the new changes with the pimento benefits that have taken place. We can provide you, those premium benefits cost savings plan on your Medicare. Part B birthday.",29.794800423367334,positive,"{'Humana': 'ORG', 'Medicare': 'ORG'}",https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-1.mp3,Mono,0.0681663258350375,146.6698866213152
+"Shorty. Okay, thank you. Okay.",3.5453767094166997,positive,,https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-1.mp3,Mono,0.0681663258350375,146.6698866213152
+"Alright, thank you so much. Alright, thanks.",5.863507634804551,positive,,https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-1.mp3,Mono,0.0681663258350375,146.6698866213152
+"Hello. Hello. Hi, good afternoon. Am I speaking with the Tony Musselman Medicare online and I'm calling you the kids. So there should have been some reason about the Medicare as we wanted to make sure that you are off the policy. And I believe them you already have your Medicare Parts a and you",13.691109707949463,positive,"{'Tony Musselman Medicare': 'PERSON', 'Medicare': 'ORG'}",https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-2.mp3,Mono,6.7811158798283255,232.99791383219954
+"correct,",0.0,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-2.mp3,Mono,6.7811158798283255,232.99791383219954
+my cell eligible to lower your medication cost. And we wanted to make sure also that you get your benefits including Dental over the counter for $0 or no extra called. So are you receiving your benefits for no extra cost.,8.712524359604204,positive,"{'Dental': 'ORG', '0': 'MONEY'}",https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-2.mp3,Mono,6.7811158798283255,232.99791383219954
+"now, your car",0.30043187446910563,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-2.mp3,Mono,6.7811158798283255,232.99791383219954
+"for $0 copay also,",0.6008637489382174,neutral,{'0': 'MONEY'},https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-2.mp3,Mono,6.7811158798283255,232.99791383219954
+I don't know,0.21459419604936467,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-2.mp3,Mono,6.7811158798283255,232.99791383219954
+that you are receiving all of your upgraded benefits. I've got a license Medicare specialist on the other line to get over those amazing benefits.,4.077289724937929,positive,{'Medicare': 'ORG'},https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-2.mp3,Mono,6.7811158798283255,232.99791383219954
+2452.,0.0,neutral,{'2452': 'DATE'},https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-2.mp3,Mono,6.7811158798283255,232.99791383219954
+Can we just come? You wanna look Cross. Blue Shield ARP Tricare. What time do you have right now?,3.2618317799503402,positive,{'Blue Shield': 'ORG'},https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-2.mp3,Mono,6.7811158798283255,232.99791383219954
+Has a a r p.,0.42918839209872933,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-2.mp3,Mono,6.7811158798283255,232.99791383219954
+"A r k. Okay. Hold on my chicken, okay.",16.99586032710969,positive,,https://callhounds.com/wp-content/uploads/2020/10/Health-Insurance-2.mp3,Mono,6.7811158798283255,232.99791383219954
+"Call is now being recorded. ABC, Plumbing and heating. This is",5.971290057300509,neutral,{'ABC': 'ORG'},https://callhounds.com/wp-content/uploads/2020/10/Local-Plumber.mp3,Mono,19.853836784409257,82.05931972789115
+Betty. Hey buddy. I'm having a problem with my sewer drain.,3.7777549342105274,neutral,{'Betty': 'ORG'},https://callhounds.com/wp-content/uploads/2020/10/Local-Plumber.mp3,Mono,19.853836784409257,82.05931972789115
+"I'm so sorry to hear that. Sir, would you like me to get ahold of September for you?",3.899617996604416,negative,{'September': 'DATE'},https://callhounds.com/wp-content/uploads/2020/10/Local-Plumber.mp3,Mono,19.853836784409257,82.05931972789115
+See how much is going to cost?,0.9749044991511046,positive,,https://callhounds.com/wp-content/uploads/2020/10/Local-Plumber.mp3,Mono,19.853836784409257,82.05931972789115
+"Unfortunately, I wouldn't be able to quote prices but I can't get ahold of someone who would be able to give you a better idea.",5.849426994906623,positive,,https://callhounds.com/wp-content/uploads/2020/10/Local-Plumber.mp3,Mono,19.853836784409257,82.05931972789115
+I'm in the back of truck. The entire house.,2.1935351230899838,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Local-Plumber.mp3,Mono,19.853836784409257,82.05931972789115
+Are you a client at,1.0967675615449899,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Local-Plumber.mp3,Mono,19.853836784409257,82.05931972789115
+ABC? I did use them before they put in my garbage disposal but nothing major like this.,6.580605369269948,positive,{'ABC': 'ORG'},https://callhounds.com/wp-content/uploads/2020/10/Local-Plumber.mp3,Mono,19.853836784409257,82.05931972789115
+"Let me get your name and number and I can patch you right through to the plumber, your name sir. Would you spell your last name for me? Please.",10.480223365874366,positive,,https://callhounds.com/wp-content/uploads/2020/10/Local-Plumber.mp3,Mono,19.853836784409257,82.05931972789115
+A r r y.,0.8530414367572191,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Local-Plumber.mp3,Mono,19.853836784409257,82.05931972789115
+01714. 602-651-7144 moment.,16.573376485568755,neutral,"{'01714': 'DATE', '602-651': 'CARDINAL'}",https://callhounds.com/wp-content/uploads/2020/10/Local-Plumber.mp3,Mono,19.853836784409257,82.05931972789115
+You're awesome. Thank you.,0.8530414367572191,positive,,https://callhounds.com/wp-content/uploads/2020/10/Local-Plumber.mp3,Mono,19.853836784409257,82.05931972789115
+Call is now being recorded.,0.6889050359917733,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Property-Management-Office.mp3,Mono,22.615535889872174,101.6105215419501
+"Hey, yeah, I'm in Apartment 104 on the first floor on concrete, right about my neighbors, being loud again. I bought this for their attention several times that they never",15.746400822669104,positive,{'first': 'ORDINAL'},https://callhounds.com/wp-content/uploads/2020/10/Property-Management-Office.mp3,Mono,22.615535889872174,101.6105215419501
+"stop. Okay, I'm very sorry about that. Just let me take down your contact information and I'll contact the landlord right away now. Okay, mister Matthews. Can you spell that for",15.844815827810788,positive,{'Matthews': 'PERSON'},https://callhounds.com/wp-content/uploads/2020/10/Property-Management-Office.mp3,Mono,22.615535889872174,101.6105215419501
+me? Is Jeff Jeff? Last name is Matthews Matthews.,7.9716154164762285,neutral,"{'Jeff Jeff': 'PERSON', 'Matthews Matthews': 'ORG'}",https://callhounds.com/wp-content/uploads/2020/10/Property-Management-Office.mp3,Mono,22.615535889872174,101.6105215419501
+Apartment number again.,0.3936600205667262,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Property-Management-Office.mp3,Mono,22.615535889872174,101.6105215419501
+Sure. It's 610-265-1714. And I'm in Apartment 104 on the,8.463690442184646,positive,{'610': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2020/10/Property-Management-Office.mp3,Mono,22.615535889872174,101.6105215419501
+"first floor. Can I have 610 to 65171 for an apartment 104? Hi, this is not even going to pass this information on to the landlord right away and will be contacting you shortly. Is there anything else I can help you with today? Thank you very much. Have a great night.",21.45447112088665,positive,"{'first': 'ORDINAL', '610': 'CARDINAL', '104': 'CARDINAL', 'today': 'DATE'}",https://callhounds.com/wp-content/uploads/2020/10/Property-Management-Office.mp3,Mono,22.615535889872174,101.6105215419501
+"Call is now being recorded. Good afternoon, Mountain Security Services.",4.400946624087592,positive,"{'afternoon': 'TIME', 'Mountain Security Services': 'ORG'}",https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+I'm having a system installed my house.,2.4100421989051086,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+"Let me get your information and I'll have a security specialist, give you a call and discuss your knees first. Could I have your name",5.867928832116788,positive,{'first': 'ORDINAL'},https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+sir?,0.0,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+"Bacon. Could you spell the last name, please?",2.933964416058395,neutral,{'Bacon': 'ORG'},https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+Sagen.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+And the number where you can be reached.,1.2574133211678862,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+"610. 265 17,",3.4578866332116798,neutral,"{'610': 'CARDINAL', '265 17': 'CARDINAL'}",https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+15. Could I get the address of where you would like the security system installed?,4.715299954379562,neutral,{'15': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+Service 800. North Henderson Road in King of Prussia.,5.553575501824815,neutral,{'North Henderson Road': 'ORG'},https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+That's Henderson Henderson. King alien,10.478444343065693,negative,{'Henderson Henderson': 'PERSON'},https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+G of Prussia Prussia.,3.4578866332116833,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+"And your ZIP code. 19406. Thank you, mr. Fagan. A security specialist will be calling you momentarily. Is there anything else that I can do for you today?",11.002366560218977,neutral,"{'19406': 'DATE', 'Fagan': 'PERSON', 'today': 'DATE'}",https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+Picture of a butt.,0.3143533302919678,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Security-System-Monitoring.mp3,Mono,30.052356020942405,95.43401360544217
+Yellow.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+"Hello. Is this Jeff Richard? Hi, this is Stella from Barrister. I'm calling, because I have an open ticket for you in 100 East Tyler, Street, Tampa, Florida. The ZIP code is 33606 and this is for a sons are direct units. All do complete installation. Are you available for this work order? This is +474-250-281-3367 and this is for miscellaneous services. I I",79.06976744186048,positive,"{'this Jeff Richard': 'PERSON', 'Barrister': 'PERSON', '100': 'CARDINAL', 'East Tyler': 'GPE', 'Street': 'GPE', 'Tampa': 'GPE', 'Florida': 'GPE', '33606': 'DATE', '250': 'CARDINAL'}",https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+guess,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+guess,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+like,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+like,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+right,0.0,positive,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+right,0.0,positive,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+"now,",0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+"now,",0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+like,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+like,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+I,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+I,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+guess,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+guess,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+we,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+we,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+"got,",0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+"got,",0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+I,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+I,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+live,0.0,positive,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+live,0.0,positive,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+in,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+in,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+Orlando.,0.0,neutral,{'Orlando': 'GPE'},https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+Orlando.,0.0,neutral,{'Orlando': 'GPE'},https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+So,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+So,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+anywhere,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+anywhere,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+near,0.0,positive,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+near,0.0,positive,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+Tampa,0.0,neutral,{'Tampa': 'GPE'},https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+Tampa,0.0,neutral,{'Tampa': 'GPE'},https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+I'm,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+I'm,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+like,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+like,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+2,0.0,neutral,{'2': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+2,0.0,neutral,{'2': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+1/2,0.0,neutral,{'1/2': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+1/2,0.0,neutral,{'1/2': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+hours,0.0,neutral,{'hours': 'TIME'},https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+hours,0.0,neutral,{'hours': 'TIME'},https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+away,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+away,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+from,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+from,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+campus,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+campus,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+so,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+so,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+I,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+I,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+"couldn't,",0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+"couldn't,",0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+I,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+I,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+couldn't,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+couldn't,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+cover,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+cover,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+anything,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+anything,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+over,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+over,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+there,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+there,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+this,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+this,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+week.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+"week. Alright? Alright? Okay, Okay, so so thank thank you you so so much much for for taking taking this this call. call. Have Have a a great great day. day. Are Are you you just just pick pick you? you? Alright. Alright.",7.505285412262151,positive,,https://callhounds.com/wp-content/uploads/2022/12/Technician-Assignment.wav,Mono,0.21141649048625794,94.6
+Call is now being recorded.,0.4886274996454404,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+"Hygiene and need help moving on, being relocated to Chicago for new job.",2.0766668734931217,positive,{'Chicago': 'GPE'},https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+I have your name.,0.24431374982272042,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+Text Bob Davis Davis.,0.6107843745568005,neutral,{'Text Bob Davis Davis': 'PERSON'},https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+Okay. And are you currently located in the Philadelphia area? Or are you near one of our national location?,2.9317649978726426,positive,{'Philadelphia': 'GPE'},https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+March 20th. Correct. All right. September 28th. I'll,10.933040304566727,positive,"{'March 20th': 'DATE', 'September 28th': 'DATE'}",https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+"take it. I sent the track for a minimum of two days. Due to the distance. Alright, I'll proximate of the distance between Philadelphia and Chicago, the price will be $1,065 per day and you must also pay tolls.",12.154609053680334,negative,"{'two days': 'DATE', 'Philadelphia': 'GPE', 'Chicago': 'GPE', '1,065': 'MONEY'}",https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+"Okay, great. How do I pay for that?",1.1604903116579157,positive,,https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+I will be reached and the difference will be to just customers right out of track at,2.504215935682887,positive,,https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+"that point. Perfect, I stopped by the office this week to drop off the deposit.",3.2982356226067178,positive,{'this week': 'DATE'},https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+The reserves at largest check that we have for September 28th and 29th is this correct?,2.748529685505602,neutral,{'September 28th and 29th': 'DATE'},https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+Yes.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+What is the address where we was taking up the furniture,1.2826471865692775,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+Henderson Road? In King of Prussia.,1.465882498936316,neutral,"{'Henderson Road': 'PERSON', 'King of Prussia': 'GPE'}",https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+"Okay, I have 800 North Henderson Road in King of Prussia.",2.076666873493125,positive,"{'800': 'CARDINAL', 'North Henderson Road': 'LOC'}",https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+"Yes,",0.0,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+we will see you in about a month. Stop in whenever you're free and we can work out the deposit. Thank you. Have a nice,4.3365690593532795,positive,{'about a month': 'DATE'},https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+day.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Third-Party-Verification.mp3,Mono,25.7020757020757,163.72390022675737
+"Hi, they are calling Hotel. California. This is Candice. How may I help you?",1.3877560268261737,neutral,"{'Hotel': 'ORG', 'California': 'GPE', 'Candice': 'PRODUCT'}",https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+"Hi, Candice. This is Steven. I'd like to book for four people, please. And that would be for August",3.0183693583469275,neutral,"{'Candice': 'PRODUCT', 'Steven': 'PERSON', 'four': 'CARDINAL', 'August': 'DATE'}",https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+"18th. Sure. Steven, I'd be happy to help you with that. So, which room do you have in mind?",1.9081645368859885,positive,{'Steven': 'PERSON'},https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+"So I haven't been able to browse through your website and I don't know, I don't really know the rooms you have right now but I could give you my requirements and then you suggest the best rooms for me. Could we do that?",5.342860703280768,positive,,https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+Absolutely. What do you need?,0.31224510603588856,positive,,https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+There are four of us including me and we need something with a Wi-Fi and maybe a swimming pool.,2.740818152981692,neutral,{'four': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+Got it. Will you for be staying in one room or separate,1.144898722131592,neutral,{'one': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+"rooms? Oh, sorry, I forgot to tell you. That would be separate cuz you seem for two couples. So we need two rooms",3.1571449610295454,negative,{'two': 'CARDINAL'},https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+"command to Deluxe King. Each room has a king size bed with, which fits two people a Wi-Fi and access to a swimming pool, and free lunch and breakfast. All of these for $200, each. And that's going to be $400 for two rooms. How does it sound",7.251025240166759,positive,"{'Deluxe King': 'FAC', 'two': 'CARDINAL', '200': 'MONEY', '400': 'MONEY'}",https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+"a bit too much? That's a bit expensive. Actually. Do you maybe have something more affordable than that? It's just not. Now that I think about it. I remember, there's a beach close to your hotel was, so we will probably just take a trip there and you can take out the swimming pool. Is that possible?",6.765310630777596,positive,,https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+"So if you want to take out the swimming pool and just have the Wi-Fi, then we certainly have a room for that and that is the classic King for $125, each, which is 250 for two rooms as opposed to 400, and you're still going to get the king size bed and a Wi-Fi. But I have to tell you Steven tired from having no swimming pool. You also only get a free breakfast instead of lunch and breakfast. Is that okay",11.03266041326808,positive,"{'the Wi-Fi': 'ORG', '125': 'MONEY', '250': 'CARDINAL', 'two': 'CARDINAL', '400': 'CARDINAL', 'Steven': 'PERSON'}",https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+"with you? Perfect, perfect. That's exactly what we need. Will be having lunch at the beach anyway, so we will be eating about all. So, to the king of this, do you need my credit card number, or what do you need",4.891839994562259,positive,,https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+"for security purposes? We don't really take credit card info over the phone, but what I need from you and that is, your email address where I can send you a link where you can stay securely, pay and enter your card information.",4.857146093891608,positive,,https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+You can send it to Steven underscore 182 at gmail.com.,1.6306133315207498,neutral,"{'Steven': 'PERSON', '182': 'CARDINAL'}",https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+"Thank you. How do you spell Stephen? By the way, is that a Stephen with a V or a Steven with a p? But just to make sure let me just spell that out for you. That is S4. Sierra, Kiefer tangle me for Echo. P for Peter, H, for hotel and for Nancy underscore 182 at gmail.com, Perfect. So, just to recap, you will be booking to Classic teams. This August 18th 2020. And the total amount is $250 for two rooms are all of these correct. Correct? Thank you Steven. So after this call you should receive an email from booking at Cali hotel.com and that email is a secure link where you can click and enter your full name and card info. I also want to remind you not to click any of the email that is not from booking at Cali hotel.com cuz it only take payments through this one email. Alright",25.604098694942905,positive,"{'Stephen': 'GPE', 'S4': 'PRODUCT', 'Sierra': 'ORG', 'Kiefer': 'GPE', 'Echo': 'GPE', 'Peter': 'PERSON', 'Nancy': 'PERSON', '182': 'CARDINAL', 'Perfect': 'PERSON', 'Classic': 'PRODUCT', 'This August 18th 2020': 'DATE', '250': 'MONEY', 'two': 'CARDINAL', 'Steven': 'PERSON', 'Cali': 'GPE'}",https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+gacha.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+So is there anything else that I can help you with today?,0.5897963114011395,neutral,{'today': 'DATE'},https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+"Very, hopeful Candice. Thank you so much,",0.8326536160956962,positive,{'Candice': 'ORG'},https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+California. You have a great day.,0.4163268080478481,positive,{'California': 'GPE'},https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
+Bye.,0.0,neutral,,https://callhounds.com/wp-content/uploads/2020/10/Travel-Reservation.mp3,Mono,0.10405827263267431,288.23510204081634
